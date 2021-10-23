@@ -1,2 +1,2 @@
-# ss_mocroservice_1
+# ss_microservice_1
 sample microservice
