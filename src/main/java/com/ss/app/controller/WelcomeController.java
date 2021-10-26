@@ -9,7 +9,7 @@ import lombok.extern.slf4j.Slf4j;
 
 @Slf4j
 @RestController
-@RequestMapping("/apis/v1/ss")
+@RequestMapping("/apis/v1")
 public class WelcomeController {
 
 	@GetMapping("/welcome")
