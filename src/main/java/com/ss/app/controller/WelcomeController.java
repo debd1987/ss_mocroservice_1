@@ -15,7 +15,7 @@ public class WelcomeController {
 	@GetMapping("/welcome")
 	public ResponseEntity<String> getHelloWorld() {
 		log.info("Received call within welcome controller {}");
-		return ResponseEntity.ok("Welcome to System Service Again!");
+		return ResponseEntity.ok("Welcome to System Service Again Okay!");
 	}
 
 }
